@@ -78,3 +78,9 @@ li{
     font-size: 1.2rem;
 }
 
+li button {
+    width: 1.2rem;
+    float: right;
+    cursor: pointer;
+}
+
